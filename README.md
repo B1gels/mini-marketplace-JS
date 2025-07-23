@@ -22,7 +22,7 @@ Dilengkapi fitur pencarian, filter kategori, tampilan detail produk, dan sistem 
 
 ## 🚀 Demo (GitHub Pages)
 
-👉 [Klik untuk melihat demo](https://B1gels.github.io/mini-marketplace/)  
+👉 [Klik untuk melihat demo](https://b1gels.github.io/mini-marketplace-JS/)  
 
 ## 🗂️ Struktur Folder
 "Mini-marketplace/
