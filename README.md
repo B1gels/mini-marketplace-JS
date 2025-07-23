@@ -47,10 +47,17 @@ Dilengkapi fitur pencarian, filter kategori, tampilan detail produk, dan sistem 
    - Buka `keranjang.html` untuk lihat isi keranjang
 
 ## 📸 Preview
+### 🏠 Halaman Utama
+![Halaman Utama](demo-app/demo-1.png)
+![Halaman Utama | fitur search input](demo-app/demo-2.png)
+![Halaman Utama | fitur filter](demo-app/demo-3.png)
+![Halaman Utama | fitur empty search input](demo-app/demo-4.png)
 
-> (Opsional: tambahkan screenshot halaman index dan keranjang)
+### 🛒 Halaman Keranjang
+![Halaman keranjang | berisi produk](demo-app/demo-5.png)
+![Halaman keranjang | tidak ada produk](demo-app/demo-6.png)
 
----
+
 
 ## 🤝 Kontribusi
 
