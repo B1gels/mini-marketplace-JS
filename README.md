@@ -69,3 +69,7 @@ Proyek ini dibuat sebagai latihan pribadi. Tapi feel free untuk fork dan improve
 > Universitas Halu Oleo — Ilmu Komputer  
 > [LinkedIn](#) | [GitHub](https://github.com/B1gels)
 
+
+## 📃 Notes
+✏️ web ini masih belum sempurna untuk media query nya ,saya akan mengupdate tampilannya dilain waktu,jika ada yang ingin improve tampilan untuk berbagai device saya sangat berterima kasih
+
