@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <title>Mini-MarketPlace</title>
+</head>
+
+<body>
+    <div id="loading-screen">
+        <div class="loading-container">
+            <div class="loading-spinner"></div>
+            <div class="loading-text">Memuat produk...</div>
+            <div class="loading-subtext">Silakan tunggu sebentar</div>
+        </div>
+    </div>
+    <div class="modal" id="modal">
+        <div id="modal-content">
+            <div id="modal-detail">
+            </div>
+        </div>
+    </div>
+    <header>
+        <h2 id="page-title">Mini marketPlace</h2>
+        <nav id="nav-index">
+    
+            <div class="search-bar">
+                <i class="fa-solid fa-magnifying-glass"></i>
+                <input id="search" type="text" placeholder="cari produk">
+            </div>
+            <a id="keranjang" href="keranjang.html"><i title="keranjang belanja"
+                    class="fa-solid fa-cart-shopping"></i></i></a>
+        </nav>
+    </header>
+    <main>
+        <div class="filter">
+            <select name="category" id="item-category">
+                <option value="">-- Semua --</option>
+                <option value="electronics">electronics</option>
+                <option value="jewelery">jewelery</option>
+                <option value="men's clothing">men's clothing</option>
+                <option value="women's clothing">women's clothing</option>
+            </select>
+        </div>
+        <div id="container" class="container"></div>
+    </main>
+    <script src="js/main.js"></script>
+    <script src="https://kit.fontawesome.com/131b4a7fa1.js" crossorigin="anonymous"></script>
+</body>
+
+</html>

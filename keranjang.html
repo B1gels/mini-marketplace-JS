@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Keranjang Belanja - Mini-MarketPlace</title>
+    <link rel="stylesheet" href="css/style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <style>
+ 
+    </style>
+</head>
+
+<body>
+    <nav id="nav-keranjang">
+        <a href="index.html">&larr;</a>
+        <h3>keranjang saya</h3>
+    </nav>
+    <main>
+        <div id="container" class="container">
+            <!-- Example cart item (you would dynamically generate these) -->
+            <!-- <div class="cart-item">
+                <img src="https://via.placeholder.com/80" alt="Product Image">
+                <div class="item-details">
+                    <h4>Nama Produk</h4>
+                    <p class="item-price">$10.00</p>
+                    <div class="item-actions">
+                        <div class="quantity-control">
+                            <button>-</button>
+                            <span>1</span>
+                            <button>+</button>
+                        </div>
+                        <button class="remove-item">Hapus</button>
+                    </div>
+                </div>
+            </div> -->
+            
+            <!-- Empty cart state (hidden when items exist) -->
+            <div id="keranjang-kosong" class="cart-empty">
+                <p>Keranjang belanja Anda kosong</p>
+                <a href="index.html" style="color: var(--primary);">Belanja sekarang</a>
+            </div>
+        </div>
+        <div class="checkout">
+            <p id="total-harga">Total: $<span id="harga"></span></p>
+            <div class="btn">
+                <button id="hapus-semua">hapus semua</button>
+                <button id="checkout-btn">checkout (<span id="jumlah-item"></span>)</button>
+            </div>
+        </div>
+    </main>
+    <script src="js/keranjang.js"></script>
+</body>
+
+</html>
