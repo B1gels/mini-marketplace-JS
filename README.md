@@ -26,14 +26,14 @@ Dilengkapi fitur pencarian, filter kategori, tampilan detail produk, dan sistem 
 > *Ganti link dengan URL GitHub Pages milik kamu*
 
 ## 🗂️ Struktur Folder
-Mini-marketplace/
+"Mini-marketplace/
 ├── index.html
 ├── keranjang.html
 ├── css/
 │ └── style.css
 └── js/
 ├── main.js
-└── keranjang.js
+└── keranjang.js"
 
 
 ## 🧪 Cara Menjalankan
