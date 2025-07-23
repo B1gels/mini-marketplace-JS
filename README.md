@@ -22,8 +22,7 @@ Dilengkapi fitur pencarian, filter kategori, tampilan detail produk, dan sistem 
 
 ## 🚀 Demo (GitHub Pages)
 
-👉 [Klik untuk melihat demo](https://fikar-dev.github.io/mini-marketplace/)  
-> *Ganti link dengan URL GitHub Pages milik kamu*
+👉 [Klik untuk melihat demo](https://B1gels.github.io/mini-marketplace/)  
 
 ## 🗂️ Struktur Folder
 "Mini-marketplace/
